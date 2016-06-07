@@ -13,5 +13,6 @@ url: "https://www.codeforamerica.org" # the base hostname & protocol for your si
 markdown: kramdown
 
 # Pagination
+gems: [jekyll-paginate]
 paginate: 10
 paginate_path: "archive/page-:num/"
