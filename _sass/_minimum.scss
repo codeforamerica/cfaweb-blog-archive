@@ -1,0 +1,302 @@
+// =========== SETTINGS
+
+// # Typography
+
+$em-base:             10px;
+$base-font-size:      1.6rem;
+$base-line-height:    1.5;
+$small-font-size:     1.4rem;
+$large-font-size:     2rem;
+
+// # Headings in REM from pixels
+
+$h1-font-size:        4.8rem;
+$h2-font-size:        2rem;
+$h3-font-size:        2rem;
+$h4-font-size:        2rem;
+$h5-font-size:        2rem;
+$h6-font-size:        2rem;
+
+// # Font faces
+
+$font-sans:           'freight-sans-pro', 'Freight Sans Pro', 'Verdana', 'Arial', sans-serif;
+$font-serif:          'freight-text-pro', 'Freight Text Pro', 'Georgia', 'Times New Roman', serif;
+
+// # Color map
+
+$palettes: (
+  blue: (
+    dark: rgb(71,116,147),
+    med-dark: rgb(40,141,181),
+    base: rgb(57,158,210),
+    med-light: rgb(109,176,203),
+    light: rgb(195,225,233)
+  ),
+  red: (
+    dark: rgb(147,25,76),
+    med-dark: rgb(179,30,65),
+    base: rgb(207,31,66),
+    med-light: rgb(226,106,124),
+    light: rgb(244,193,202)
+  ),
+  purple: (
+    dark: rgb(68,44,118),
+    med-dark: rgb(94,64,145),
+    base: rgb(112,78,159),
+    med-light: rgb(158,139,193),
+    light: rgb(218,203,228)
+  ),
+  black: (
+    base: rgb(0,0,0)
+  ),
+  gray: (
+    dark: rgba(0,0,0,0.85),
+    med-dark: rgba(0,0,0,0.75),
+    base: rgba(0,0,0,0.65),
+    med-light: rgba(0,0,0,0.55),
+    light: rgba(0,0,0,0.4),
+    xtra-light: rgba(0,0,0,0.1),
+  )
+);
+
+// # Theme colors
+
+$color-primary:       get-color(blue);
+$color-secondary:     get-color(red);
+$color-danger:        get-color(red);
+$color-font:          get-color(black);
+$color-font-gray:     get-color(gray,light);
+$color-screen:        get-color(gray,xtra-light);
+
+// # Mobile first breakpoints
+
+$mobile-up:           481px;
+$tablet-up:           600px;
+$midscreen-up:        800px; // we uncollapse the header above this point
+$largescreen-up:      1000px;
+$widescreen-up:       1201px;
+
+// # Magic numbers
+
+$site-max-width:      960px;
+$site-margins:        15px;
+$border-radius:       0px;
+$gutter-widths:       20px;
+$spacing-bottom:      2rem;
+
+// =========== BASE STYLES
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #ffffff;
+  margin: 0;
+  padding: 0;
+}
+
+.page-main {
+}
+
+.lt-ie9 {
+  // Hack for clearfixes
+  * {
+    filter: none !important;
+  }
+}
+
+img {
+  max-width: 100%;
+}
+
+// =========== CONTAINER/GRID
+
+.container {
+  @include clearfix;
+  margin: 0 auto;
+  padding: 0 $site-margins;
+  max-width: $site-max-width;
+}
+
+// =========== TYPOGRAPHY
+
+html {
+  font-family: $font-sans;
+  font-size: $em-base; // $em-base makes 1rem = 10px
+  line-height: $base-line-height;
+}
+
+body {
+  font-size: $base-font-size;
+  -webkit-font-smoothing: antialiased;
+  font-weight: 400;
+  color: get-color(black);
+}
+
+// # Basic elements
+
+strong {
+  font-weight: 600;
+}
+
+a {
+  color: get-color(blue);
+  &:hover, &:active {
+    color: get-color(blue,dark);
+  }
+}
+
+// # Headings
+
+h1, .h1 {
+  font-size: $h1-font-size * 0.6;
+  font-weight: 600;
+  line-height: 1.07;
+  clear: both;
+  letter-spacing: -0.02em;
+
+  @include media($tablet-up) {
+    font-size: $h1-font-size;
+  }
+}
+
+h2, .h2,
+h3, .h3,
+h4, .h4,
+h5, .h5,
+h6, .h6 {
+  clear: both;
+  font-weight: 500;
+  line-height: 1;
+  letter-spacing: -0.01em;
+}
+
+h2, .h2 {
+  font-size: $h2-font-size;
+}
+h3, .h3 {
+  font-size: $h3-font-size;
+}
+h4, .h4 {
+  font-size: $h4-font-size;
+}
+h5, .h5 {
+  font-size: $h5-font-size;
+}
+h6, .h6 {
+  font-size: $h6-font-size;
+}
+
+// # Serif text (for long blocks of text)
+
+p.serif-text,
+.serif-text p {
+  font-family: $font-serif;
+  font-size: $base-font-size;
+  line-height: 1.8;
+}
+
+// # Detail text (for small stuff, like captions)
+
+.detail-text,
+.detail-text p {
+  font-family: $font-sans;
+  font-size: $small-font-size;
+  line-height: 1.3;
+}
+
+// # Quotes and attribution text
+
+.quote-text,
+.quote-text p {
+  font-family: $font-serif;
+  font-size: $large-font-size;
+  line-height: $base-line-height;
+  color: get-color(blue);
+}
+
+.quote-attribution,
+.quote-attribution p {
+  font-family: $font-sans;
+  font-weight: 400;
+  font-size: $base-font-size;
+  line-height: $base-line-height;
+}
+
+// ========== LISTS
+
+// # Styled lists (default)
+
+ul {
+  list-style-type: disc;
+  padding-left: 2em;
+  li {
+    line-height: $base-line-height;
+    margin: {
+      top: 1rem;
+      bottom: 1rem;
+    }
+  }
+}
+
+ol {
+  list-style-type: decimal;
+  padding-left: 2em;
+  li {
+    line-height: $base-line-height;
+    top: 1rem;
+    bottom: 1rem;
+  }
+}
+
+// # Unstyled list
+
+ul.unstyled-list, ol.unstyled-list {
+  margin: {
+    right: 0;
+    left: 0;
+  }
+  padding: 0;
+  list-style-type: none;
+}
+
+// ========== CODE FORMATTING
+
+pre, code {
+  border: 1px solid get-color(gray,light);
+  border: 1px solid get-color(gray);
+}
+
+code {
+  padding: 1px 5px;
+}
+
+pre {
+    padding: 8px 12px;
+    overflow-x: scroll;
+
+    > code {
+        border: 0;
+        padding-right: 0;
+        padding-left: 0;
+    }
+}
+
+// ========== UTILITIES
+
+.hide-small {
+  display: none;
+  @include media($tablet-up) {
+    display: inherit;
+  }
+}
+
+// ========== "VERTICAL RHYTHM"
+//
+// h1, h2, h3, h4, h5, h6,
+// p, blockquote, pre,
+// ul, ol, dl, figure,
+// %vertical-rhythm {
+//     margin-bottom: $spacing-unit / 2;
+// }

@@ -1,0 +1,20 @@
+---
+layout: default
+---
+<div class="template-post">
+  <section class="post-header">
+    <h1 class="post-title">{{ page.title }}</h1>
+  </section>
+  <section class="post-content serif-text">
+    <p class="post-meta">Posted on {{ page.date | date: "%b %-d, %Y" }}{% if page.author %} by {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
+    {% if page.categories.size != 0 %}
+      <p class="post-meta">Tags: {{ page.categories | array_to_sentence_string }}</p>
+    {% endif %}
+    {{ content }}
+  </section>
+  <section class="post-sidebar">
+    <p class="archive-details-header">Archived post</p>
+    <p class="archive-details">Code for America recently moved its blog to a new home. We didn't want to leave anything behind, so we moved this post by {{ page.author | split: " " | first }} right here. We hope you enjoy it.</p>
+    <p class="archive-details">Want to read more? Visit the new <a href="{{ site.new_blog_url }}">Code for America Blog</a>.</p>
+  </section>
+</div>

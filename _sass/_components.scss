@@ -1,0 +1,209 @@
+// ========== COMPONENTS
+
+// # Global alert
+
+.global-alert {
+  @include responsive-spacing;
+}
+
+a.global-alert-link {
+  font-size: $small-font-size;
+  color: $color-font;
+  text-decoration: none;
+
+  display: block;
+  background-color: $color-screen;
+  padding: .5rem 1rem;
+
+  &:hover {
+    background-color: lighten($color-screen,40%);
+  }
+
+  span {
+    max-width: $site-max-width;
+    margin: 0 auto;
+    display: block;
+  }
+}
+
+// # Header
+
+.header {
+  @include clearfix;
+  display: block;
+  width: 100%;
+  @include responsive-spacing;
+}
+
+.header-logo {
+  @include clearfix;
+  display: block;
+  height: auto;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 1rem;
+  @include media($tablet-up) {
+    display: inline-block;
+    float: left;
+    margin-bottom: 0;
+  }
+}
+
+.header-logo img {
+  display: block;
+  width: 120px;
+  height: auto;
+  margin-bottom: .5rem;
+  float: left;
+  @include media($tablet-up) {
+    width: 175px;
+    float: none;
+    margin-left: 0;
+  }
+}
+
+a.header-logo-tagline {
+  display: block;
+  float: left;
+  margin-left: 2rem;
+  margin-top: 1.5rem;
+
+  color: $color-font-gray;
+  letter-spacing: 0.3rem;
+  text-decoration: none;
+  text-transform: uppercase;
+  font-size: $small-font-size;
+
+  @include media($tablet-up) {
+    font-size: $base-font-size;
+    text-align: center;
+    letter-spacing: 0.5rem;
+    float: none;
+    margin-left: 0;
+    margin-top: 1rem;
+  }
+}
+
+.header-navigation {
+  @include media($tablet-up) {
+  }
+}
+
+.header-navigation-list {
+  margin: 0;
+  display: block;
+  width: 100%;
+  clear: both;
+  @include media($tablet-up) {
+    margin-top: 3rem;
+    display: inline-block;
+    clear: none;
+    width: auto;
+    float: right;
+    text-align: left;
+  }
+}
+
+.header-navigation-list a {
+  color: $color-font;
+}
+
+.header-navigation-list li {
+  display: inline-block;
+  margin-right: .4rem;
+  @include media($tablet-up) {
+    margin-right: 1rem;
+  }
+}
+
+// # Post
+
+.post-header {
+  display: block;
+  width: 100%;
+  clear: both;
+  @include responsive-spacing;
+}
+
+.post-content {
+  display: block;
+  width: 100%;
+  clear: both;
+  @include responsive-spacing;
+  @include media($midscreen-up) {
+    width: 70%;
+    float: left;
+    clear: none;
+  }
+}
+
+.post-content {
+  h2, h3, h4, h5, h6 {
+    margin-top: 3rem;
+  }
+  a {
+    color: $color-font;
+  }
+}
+
+.post-sidebar {
+  display: block;
+  width: 100%;
+  clear: both;
+  @include responsive-spacing;
+  @include media($midscreen-up) {
+    margin-left: 4%;
+    width: 26%;
+    float: left;
+    clear: none;
+  }
+}
+
+p.post-meta {
+  font-family: $font-sans;
+  color: $color-font-gray;
+}
+
+p.post-meta + p.post-meta {
+  margin-top: -1.5rem  ;
+}
+
+// # Archive details
+
+p.archive-details-header {
+  font-weight: 600;
+  // text-transform: uppercase;
+}
+
+// # Footer
+
+.footer {
+  color: $color-font-gray;
+}
+
+// # Page
+
+.page-lead-in {
+  font-size: $large-font-size;
+  margin-top: -1.5rem;
+  color: $color-font-gray;
+  max-width: 750px;
+  @include responsive-spacing;
+}
+
+// # Post list
+
+.post-list li {
+  max-width: 750px;
+  @include responsive-spacing;
+}
+
+a.post-list-link {
+  text-decoration: none;
+}
+
+// # Pagination
+
+.pagination-bottom {
+  @include responsive-spacing;
+}

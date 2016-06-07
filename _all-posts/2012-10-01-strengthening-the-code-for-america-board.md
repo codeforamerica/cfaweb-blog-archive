@@ -1,0 +1,22 @@
+---
+id: 17097
+title: Strengthening the Code for America Board
+date: 2012-10-01T14:23:39+00:00
+author: Jennifer Pahlka
+layout: post
+guid: http://codeforamerica.org/?p=17097
+permalink: /2012/10/01/strengthening-the-code-for-america-board/
+dsq_thread_id:
+  - 866996998
+categories:
+  - News
+---
+Code for America has been blessed with a fantastic group of dedicated individuals who have helped us get off the ground and guided our growth over the past couple of years.  As we&#8217;ve grown, we&#8217;ve recognized the need for our governing and strategy board to better reflect the community we serve and the principles we espouse.  I&#8217;m pleased to announce today three additions to the Code for America board of directors who help do just that.  Eric Ries, Nigel Jacob and Stacy Donohue have all graciously agreed to join our board.
+
+[<img src="http://codeforamerica.org/wp-content/uploads/2012/10/stacy_130x180.jpeg" alt="" title="stacy_130x180" class="alignleft size-full wp-image-17101" />](http://codeforamerica.org/wp-content/uploads/2012/10/stacy_130x180.jpeg)**Stacy Donahue** directs investments in the Omidyar Network&#8217;s Media, Markets & Transparency initiative, and I&#8217;ll always be grateful to her for being the first of our major funders to actually give us the ability to pay staff.  She&#8217;s been a supporter of the organization since the start and provided not only critical and generous funding, but also sage advice and dozens of connections with others pursuing transparency work here and around the world.  Before joining Omidyar Network, Stacy held senior roles at Hewlett-Packard and Boston Consulting Group.  She is a graduate of Yale (the year before me, but I didn&#8217;t know her!), got her MBA at Harvard, an also holds MA in art history from the University of California, Berkeley.  I&#8217;m so grateful to her for taking this role with Code for America.
+
+[<img src="http://codeforamerica.org/wp-content/uploads/2012/10/nigeljacob.png" alt="" title="nigeljacob" class="alignleft size-full wp-image-17102" />](http://codeforamerica.org/wp-content/uploads/2012/10/nigeljacob.png)**Nigel Jacob** was one of the very first city government staff to step up to the plate and work with Code for America.  He and his colleague Chris Osgood championed our outstanding Boston team in 2011, resulting in so many of the applications and outcomes that influenced Code for America&#8217;s strategy moving forward.  Nigel started his career as a software-engineer, then enrolled in graduate student (Tufts University, PhD), and eventually found his way to be the co-Director of the City of Boston’s innovation office, the Mayor’s Office of New Urban Mechanics. He&#8217;ll join Andrew Greenhill in the City of Tucson as two members of the board with deep experience with local government, and given all that we&#8217;ve learned from him, I&#8217;m looking forward to his continued influence on the organization.
+
+[<img src="http://codeforamerica.org/wp-content/uploads/2012/10/46998v5-max-250x250.jpeg" alt="" title="46998v5-max-250x250" class="alignleft size-full wp-image-17103" />](http://codeforamerica.org/wp-content/uploads/2012/10/46998v5-max-250x250.jpeg)In a way, **Eric Ries** wrote the Code for America bible without knowing it.  Eric is a serial entrepreneur who began preaching the value of a &#8220;minimum viable product&#8221; and user-driven product development just as Code for America was coming into being.  His book The Lean Start Up became the basis for our organization&#8217;s development strategy, and his philosophy a core value that we brought to our work with both fellows and government partners.  When we launched the first program, he was one of the very first speakers who came in to address the fellows, and was kind enough to come back the second year.  He&#8217;s being courted by corporations around the world to use lean start up techniques to drive innovation within large companies, but he&#8217;s always believed in the value of government and made working with us a priority despite a packed schedule and huge backlog of clients.  It&#8217;s very exciting that this lean non-profit start up have the benefit of his thinking as we evolve our strategy, and I&#8217;m grateful to him for taking this on.
+
+Thank you to Stacy, Eric and Nigel for joining our efforts; I know they&#8217;ll help us take this idea as far as it can go.

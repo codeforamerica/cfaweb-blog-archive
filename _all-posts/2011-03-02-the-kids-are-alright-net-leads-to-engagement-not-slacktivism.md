@@ -1,0 +1,24 @@
+---
+id: 4079
+title: 'The Kids Are Alright: Net Leads to Engagement, not &#8220;Slacktivism&#8221;'
+date: 2011-03-02T06:29:39+00:00
+author: Lauren Dyson
+layout: post
+guid: http://codeforamerica.org/?p=4079
+permalink: /2011/03/02/the-kids-are-alright-net-leads-to-engagement-not-slacktivism/
+dsq_thread_id:
+  - 243736693
+categories:
+  - Commentary
+---
+Just a few weeks ago, the Pew Internet & American Life Project released a [study](http://pewinternet.org/Reports/2011/The-Social-Side-of-the-Internet.aspx) showing that social media users were more likely to participate in groups online and offline, [contrary to popular assumptions](http://codeforamerica.org/2011/02/07/the-internet-and-civic-participation-what-the-pew-study-tells-us/) that digital media is detrimental to civic engagement. This week, [another new study](http://ypp.dmlcentral.net/content/does-internet-make-more-engaged-citizens-many-youth-answer-yes-according-new-study-civic-lea) demonstrates that young people who pursue their interests online are more likely to be engaged with civic and political issues, and more likely to be exposed to divergent political viewpoints. “We found that being part of online participatory communities tied to youth interests, political or not, exposes youth to a greater degree of diverse viewpoints and issues and is related to higher levels of civic engagement,” said Joseph Kahne, author of the study. “Both of these outcomes are good for democracy.”
+
+The study, released by the newly formed [Youth and Participatory Politics](http://ypp.dmlcentral.net/) research network, is the first of its kind. Over 2,500 high school students from diverse school districts in California were surveyed, and 400 youth followed for several years. The study examined how their online activities related to their civic engagement, controlling for factors such as parental influence and initial engagement to better isolate the effects of digital media usage.
+
+The key findings of the study contradicted several commonly held beliefs. First of all, youth who actively pursue interests on the Internet were found to be more likely to be involved with volunteer or charity work offline and to work with others on community issues. This runs counter to the popular fear that usage of the internet promotes “[slacktivism](http://en.wikipedia.org/wiki/Slacktivism)” and social isolation among young people. In fact, according to analysis of the findings, “The Internet can serve as a gateway to online and offline civic and political engagement, including volunteerism, community problem-solving, and protest activity.”
+
+Another oft-voiced concern about the internet is that users easily gravitate towards “[echo chambers](http://www.pbs.org/newshour/bb/media/jan-june10/miller_06-01.html)” where they are surrounded by others who share their beliefs, reducing exposure to divergent viewpoints. In fact, only 5% of youth in the study reported that they encountered only viewpoints with which they agreed. “More youth are in empty chambers than echo chambers,” said Kahne, in a [Huffington Post article](http://www.huffingtonpost.com/joseph-kahne/is-the-virtual-world-good_b_827064.html).
+
+The study also indicated that new media literacy education dramatically increases exposure to diverse viewpoints and likelihood of online-driven civic and political participation. “Nobody controls the way young people are going to use the Internet,” Kahne said, “but there may be ways that educational institutions, parents, and designers of platforms can think about how could they make it more likely that folks will tap the promise of these digital media and avoid some of the possible pitfalls.” This suggests teaching new media literacies in schools alongside traditional media literacy will be an increasingly important part of preparing young people to be active and engaged citizens, especially as the boundary between online and offline life fades.
+
+The evidence is building up that what happens online can affect offline citizen engagement and democratic participation, and more research is needed to better understand how to maximize the potential benefits of digital media. “It’s hard to imagine a more pressing issue than the next generations&#8217; involvement in our democracy,” said Connie Yowell, director of education programs for the [MacArthur Foundation](http://www.macfound.org/site/c.lkLXJ8MQKrH/b.3599935/k.1648/John_D__Catherine_T_MacArthur_Foundation.htm), which supports the Youth and Participatory Politics research network. “Social media has clearly altered the nature of participation with implications for the economy, learning, and as we are now witnessing almost daily &#8211; civil society &#8211; both in the United States and globally.”

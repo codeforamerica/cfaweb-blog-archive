@@ -1,0 +1,46 @@
+---
+layout: default
+---
+{% for page in (1..paginator.total_pages) %}
+  {% if page == paginator.page and page != 1 %}
+    <div class="pagination-top">
+      {% if paginator.previous_page %}
+        <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' | remove: 'index.html' }}" class="previous">&laquo; Previous</a>&nbsp;&nbsp;
+      {% else %}
+      {% endif %}
+      <span class="page_number ">Page {{ paginator.page }} of {{ paginator.total_pages }}</span>
+      {% if paginator.next_page %}
+        &nbsp;&nbsp;<a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Next &raquo;</a>
+      {% else %}
+      {% endif %}
+    </div>
+  {% endif %}
+{% endfor %}
+
+<div class="template-page">
+  <h1 class="page-heading">From the archive: oldies and goodies</h1>
+  <p class="page-lead-in">We moved our blog to a new home on the internet. (Check it out, it's great.) Unfortunately, not everything came along with us. Our staff, fellows, friends and supporters have been posting interesting pieces since 2010. Check out all {{ site.posts.size }} of our archived posts here.</p>
+  <ul class="post-list unstyled-list">
+    {% for post in paginator.posts %}
+      <li>
+        <p class="post-list-details">{{ post.date | date: "%b %-d, %Y" }}{% if post.author %} by {{ post.author }}{% endif %}</p>
+        <h2>
+          <a class="post-list-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+        </h2>
+        <p class="post-list-details">{{ post.excerpt | remove: '<p>' | remove: '</p>' }}</p>
+      </li>
+    {% endfor %}
+  </ul>
+  <!-- Pagination links -->
+  <div class="pagination-bottom">
+    {% if paginator.previous_page %}
+      <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' | remove: 'index.html' }}" class="previous">&laquo; Previous</a>&nbsp;&nbsp;
+    {% else %}
+    {% endif %}
+    <span class="page_number ">Page {{ paginator.page }} of {{ paginator.total_pages }}</span>
+    {% if paginator.next_page %}
+      &nbsp;&nbsp;<a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Next &raquo;</a>
+    {% else %}
+    {% endif %}
+  </div>
+</div>

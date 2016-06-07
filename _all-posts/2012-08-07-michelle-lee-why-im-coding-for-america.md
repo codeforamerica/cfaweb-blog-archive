@@ -1,0 +1,40 @@
+---
+id: 15180
+title: 'Michelle Lee: Why I&#8217;m Coding for America'
+date: 2012-08-07T17:16:15+00:00
+author: Michelle Lee
+layout: post
+guid: http://codeforamerica.org/?p=15180
+permalink: /2012/08/07/michelle-lee-why-im-coding-for-america/
+dsq_thread_id:
+  - 796664878
+categories:
+  - 2012 Intern
+  - Coding for America
+  - Commentary
+---
+_This summer Code for America was fortunate enough to work with two Michelle Lees. This blog post was written by Michelle Lee, our 2012 summer intern, not to be confused with Michelle Lee, our 2012 Fellow._
+
+After spending most of my life in an academic bubble, I got my first full-time job as a community organizer in Chicago&#8217;s Chinatown. I knocked on doors, gave presentations about Census 2010, worked with youth volunteers, and talked to people and leaders in the community about their issues. I learned how to be civically engaged in a community at the grassroots level. I worked to help give Chinatown a voice in Chicago politics, which it has historically lacked, and witnessed poverty and language isolation first-hand. But it felt weird&#8230;because I did something entirely different from my peers, who were starting careers in finance, consulting, and marketing.
+
+To have a group of talented young people interested in giving back versus climbing up is such a rare find nowadays. While visiting San Francisco, I noticed that my friends who worked at large tech companies were more interested in their salaries and campus cafeterias than how their work could improve society. The despair I felt at my generation&#8217;s brightest minds lacking any social consciousness quickly dissipated as I started my internship at Code for America.
+
+I had an amazing experience being in the office for a week and meeting all of the interns, fellows, and staff. One of the fellows mentioned to me: &#8220;There&#8217;s value in just being in this space.&#8221; It&#8217;s the power of the social, and it&#8217;s created by this group of talented young people who share a vision and passion for leveraging technology in government. Who have a panda as a totem. Who play ping pong fairly competitively. But, back to what I was saying&#8230;I would say that Code for America is at the center of a cluster of technologists who are interested in how their code and design can give back to communities. Making civic hacking cool adds to the moral fiber of the tech community, which benefits the greater society.
+
+Code for America is not only a great community in and of itself, but also builds apps and interfaces with city governments to empower individual citizens to step up. In a time when civic engagement is at an all time low, not many people go out and knock on doors, or join organizations. Robert Putnam says, &#8220;80 percent of life is showing up. The same might be said of civic engagement.&#8221; How do we get people to show up? It could be through engaging with government by [taking a poll about amenities in their community](//www.textizen.com/welcome), [getting people together to work on community projects](http://codeforamerica.org/?cfa_project=change-by-us), or stepping up to [adopt-a-hydrant](http://codeforamerica.org/?cfa_project=adopt-a-hydrant).
+
+It&#8217;s exciting to be here at the center of the action, at a time which I would argue is pivotal for the use of the internet and technology in politics and government. Like Ariel, I think this is a [world-wide phenomena](http://www.data.gov/opendatasites). I am particularly inspired by [_This summer Code for America was fortunate enough to work with two Michelle Lees. This blog post was written by Michelle Lee, our 2012 summer intern, not to be confused with Michelle Lee, our 2012 Fellow._
+
+After spending most of my life in an academic bubble, I got my first full-time job as a community organizer in Chicago&#8217;s Chinatown. I knocked on doors, gave presentations about Census 2010, worked with youth volunteers, and talked to people and leaders in the community about their issues. I learned how to be civically engaged in a community at the grassroots level. I worked to help give Chinatown a voice in Chicago politics, which it has historically lacked, and witnessed poverty and language isolation first-hand. But it felt weird&#8230;because I did something entirely different from my peers, who were starting careers in finance, consulting, and marketing.
+
+To have a group of talented young people interested in giving back versus climbing up is such a rare find nowadays. While visiting San Francisco, I noticed that my friends who worked at large tech companies were more interested in their salaries and campus cafeterias than how their work could improve society. The despair I felt at my generation&#8217;s brightest minds lacking any social consciousness quickly dissipated as I started my internship at Code for America.
+
+I had an amazing experience being in the office for a week and meeting all of the interns, fellows, and staff. One of the fellows mentioned to me: &#8220;There&#8217;s value in just being in this space.&#8221; It&#8217;s the power of the social, and it&#8217;s created by this group of talented young people who share a vision and passion for leveraging technology in government. Who have a panda as a totem. Who play ping pong fairly competitively. But, back to what I was saying&#8230;I would say that Code for America is at the center of a cluster of technologists who are interested in how their code and design can give back to communities. Making civic hacking cool adds to the moral fiber of the tech community, which benefits the greater society.
+
+Code for America is not only a great community in and of itself, but also builds apps and interfaces with city governments to empower individual citizens to step up. In a time when civic engagement is at an all time low, not many people go out and knock on doors, or join organizations. Robert Putnam says, &#8220;80 percent of life is showing up. The same might be said of civic engagement.&#8221; How do we get people to show up? It could be through engaging with government by [taking a poll about amenities in their community](//www.textizen.com/welcome), [getting people together to work on community projects](http://codeforamerica.org/?cfa_project=change-by-us), or stepping up to [adopt-a-hydrant](http://codeforamerica.org/?cfa_project=adopt-a-hydrant).
+
+It&#8217;s exciting to be here at the center of the action, at a time which I would argue is pivotal for the use of the internet and technology in politics and government. Like Ariel, I think this is a [world-wide phenomena](http://www.data.gov/opendatasites). I am particularly inspired by](http://aiweiweineversorry.com/) using social media to agitate for transparency in Communist China. While our country is much more transparent, FOIA requests and unwieldy formats make this important data hard to access for the average individual.
+
+The efforts of Code for America to help cities open up data has huge impacts on policy and electoral decisions in our country. But, even on an everyday level, open data can help with [catching the next bus](http://www.citygoround.org/), or in [choosing a school for our children](http://codeforamerica.org/?cfa_project=school-selection).  Data empowers us.
+
+Tying back in with Putnam&#8217;s Bowling Alone, I think that engaging with governments and politics via technology may be a new way for our generation. Not to say that we shouldn&#8217;t knock on doors for campaigns and join organizations we believe in, but that the powers of the collective are being harnessed in completely new and innovative ways. The excitement I felt about making a difference as a community organizer was exhilarating; I have since been looking for an outlet in which I can give back in a creatively satisfying way. I&#8217;m excited to be interning at Code for America because I believe that Code for America is a unique group of people reinventing civic engagement via technological innovations.

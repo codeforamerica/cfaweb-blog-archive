@@ -1,0 +1,23 @@
+---
+id: 9828
+title: '&#8220;Change By Us&#8221; Launches in Philly and into the Commons'
+date: 2011-11-21T14:00:37+00:00
+author: Abhi Nemani
+layout: post
+guid: http://codeforamerica.org/?p=9828
+permalink: /2011/11/21/change-by-us-launches-in-philly-and-into-the-commons/
+dsq_thread_id:
+  - 479551641
+categories:
+  - Change By Us
+  - News
+---
+[<img class="alignright size-full wp-image-9853" title="cbu-philly" src="http://codeforamerica.org/wp-content/uploads/2011/11/cbu-philly.jpg" alt="" />](http://codeforamerica.org/wp-content/uploads/2011/11/cbu-philly.jpg)In Philadelphia, today, Mayor Michael Nutter announced the public launch of &#8220;[Change By Us: Philadelphia](http://philly.changeby.us/)&#8221; &#8212; which not only constituted a significant advance for civic engagement in the city, but also marked a important step forward for the reuse of civic software in the country: the civic engagement platform initially deployed in New York is now available for any city to use under a free open source license. Change By Us&#8217;s reuse shows the opportunity for shared civic software.
+
+&#8220;After Change By Us&#8217; successful launch in New York City and now Philadelphia, we are excited to see the code released open source for anyone to use,” said Jake Barton, Principal at [Local Projects](http://localprojects.net/) &#8212; the initial development firm on Change By Us, in collaboration with [CEOs for Cities](http://ceosforcities.org) with with the support of the [John S. and James L. Knight Foundation](http://knightfoundation.org) and [The Rockefeller Foundation](http://www.rockefellerfoundation.org/). &#8220;At a time that cities are being squeezed for funds in all directions,&#8221; he added, &#8220;Change By Us is a free software platform that turns citizens into collaborators, empowering everyone in a city to make change for good. This triple win for any city costs nothing to install, entices citizens to participate, and creates ample press opportunities to tell stories about positive collaborative change.&#8221;
+
+Throughout this year, [our fellows have worked with Local Projects and CEOs for Cities](http://codeforamerica.org/2011/09/01/change-by-us/) to help open source the application, develop new features and deploy it in Philadelphia. In particular, our fellows &#8212; including Mjumbe Poe, Alan Palazzolo, Aaron Ogle, John Mertens, Anna Bloom, and Tyler Stalder &#8212; leveraged their on-the-ground user research this year to enhance the app&#8217;s resources for civic leaders. They built in functionality so that project leaders can now detail specific needs (e.g. volunteers, or in-kind donations) and organize events, in addition to developing to social features, such as being able to share projects on Twitter, Facebook, Google+, and even directly invite your friends through the app. They also made available a host of tutorial videos on the FAQ page to make it easier for people to be successful.
+
+Now that Change By Us is opensourced, we hope others in the community will work on extending the app even further. The source code and instructions for installation are available for download on [Github](https://github.com/localprojects/Change-By-Us). Local Projects and CEOs for Cities will be continuing to partner with cities to deploy the application around the world, and our [Civic Commons](http://civiccommons.org) initiative will be encouraging its reuse &#8212; along with other shared civic technology.
+
+The Philadelphia instance launched with a focus on making the city &#8220;smarter, safer, and greener.&#8221; Mayor Michael A. Nutter said, &#8220;We are proud to be in the vanguard of cities using powerful and sophisticated Internet tools to foster civic participation and advancement of collaborative projects in the public space.&#8221; Philly residents can now access the site, share their ideas, and turn them into civic projects for a better city. Thanks to the support of the Knight Foundation, in addition, up to $25,000 in grants will be awarded for projects proposed on the site. Jeff Friedman, the city&#8217;s Manager of Civic Innovation & Participation and our lead sponsor in the city, concluded, &#8220;With the advent of powerful and sophisticated open source Internet-based tools like Change by Us, Philadelphia, New York, and other cities have the opportunity to unleash the full potential of positive, constructive, collective action.&#8221;

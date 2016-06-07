@@ -1,0 +1,67 @@
+{% if page.title %}
+  {% capture page_title %}{{ page.title }} &middot; {{ site.title }}{% endcapture %}
+{% else %}
+  {% capture page_title %}{{ site.title }}{% endcapture %}
+{% endif %}
+
+{% if page.excerpt %}
+  {% capture page_description %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% endcapture %}
+{% else %}
+  {% capture page_description %}{{ site.description }}{% endcapture %}
+{% endif %}
+
+{% capture page_url %}{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}{% endcapture %}
+
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <title>{{ page_title }}</title>
+
+  <!-- Canonical url -->
+  <link rel="canonical" href="{{ page_url }}">
+
+  <!-- Description and basic stuff -->
+  <meta name="description" content="{{ page_description }}">
+  <meta name="author" content="{{ site.author }}">
+
+  <!-- Google Authorship and Publisher Markup -->
+  <link rel="author" href="https://plus.google.com/+codeforamerica/posts"/>
+  <link rel="publisher" href="https://plus.google.com/+codeforamerica/about"/>
+
+  <!-- Schema.org markup for Google+ -->
+  <meta itemprop="name" content="{{ page_title }}" />
+  <meta itemprop="description" content="{{ page_description }}">
+  <meta itemprop="image" content="{{ site.social_image }}">
+
+  <!-- Twitter card data -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:site" content="{{ site.twitter_handle }}">
+  <meta name="twitter:url" content="{{ page_url }}">
+  <meta name="twitter:title" content="{{ page_title }}">
+  <meta name="twitter:description" content="{{ page_description }}">
+  <meta name="twitter:creator" content="{{ site.twitter_handle }}">
+  <meta name="twitter:image:src" content="{{ site.social_image }}">
+
+  <!-- Open Graph data -->
+  <meta property="og:title" content="{{ page_title }}">
+  <meta property="og:type" content="article">
+  <meta property="og:url" content="{{ page_url }}">
+  <meta property="og:image" content="{{ site.social_image }}">
+  <meta property="og:description" content="{{ page_description }}">
+  <meta property="og:site_name" content="Code for America">
+
+  <!-- Stylesheets -->
+  <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
+
+  <!-- Webfonts (CFA FREIGHT) -->
+  <script src="https://use.typekit.net/lkd6vsz.js"></script>
+  <script>try{Typekit.load({ async: true });}catch(e){}</script>
+
+  <!-- Shims -->
+  <!--[if lt IE 9]>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/respond.js/1.4.2/respond.min.js"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
+  <![endif]-->
+</head>

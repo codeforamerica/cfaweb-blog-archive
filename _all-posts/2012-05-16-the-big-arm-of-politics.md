@@ -1,0 +1,26 @@
+---
+id: 12979
+title: The Big Arm of Politics
+date: 2012-05-16T18:36:34+00:00
+author: Jennifer Pahlka
+layout: post
+guid: http://codeforamerica.org/?p=12979
+permalink: /2012/05/16/the-big-arm-of-politics/
+dsq_thread_id:
+  - 692580462
+categories:
+  - Commentary
+---
+[<img class="alignright size-full wp-image-12981" title="bigarm" src="http://codeforamerica.org/wp-content/uploads/2012/05/bigarm1.jpg" alt="" />](http://codeforamerica.org/wp-content/uploads/2012/05/bigarm1.jpg)People often ask me about various innovative efforts to change America’s voting rates, habits, or options. There is a ton of interesting experimentation happening here, from [TurboVote](https://turbovote.org/register/start) to [ElectNext](http://electnext.com/) to [Americans Elect](http://www.americanselect.org/). I haven’t dug in deeply to any of these projects, but it’s clear they are offering some new thinking to a deep and important problem.
+
+What I’m about to say should not detract from that last sentence. For society to function properly, we must have a far more engaged electorate, and we must have some sense that our vote means something. In fact, we&#8217;ve seen that who&#8217;s in office &#8212; particularly forward-thinking mayors around the country &#8212; has a huge impact on the kind progress that Code for America promotes. But I can’t help looking at the incredibly low rates of voting and not feel that there’s something truly fundamentally askew here.
+
+When I worked in the video game industry (from about 1995 to 2004), a colleague used to talk about the disproportionate attention the industry paid to graphics. Around the early 2000s, we had video games with amazing graphics that were starting to look photo-realistic, but then the players would open their mouths and their dialogue and the behavior was so awkward and unrealistic that it was jarring. The storytelling and AI capabilities of the developers fell far short of what they could do graphically, and my colleague described it like a bodybuilder who spent all of his time on one arm, resulting in a body with one giant, powerful limb and the rest skinny and weak. Applying resources unevenly to an inter-connected system leaves the whole system ineffective.
+
+Sometimes I feel like our attempts at engaging citizens in government is a little like that oddly asymmetric bodybuilder. As a society, we spend a lot of time strongly encouraging citizens to vote; some of those messages are highly partisan (as in the staggering amount of money spent on political campaigns), while some are bipartisan and targeted at the general need for an engaged, informed electorate ([Rock the Vote](http://rockthevote.org/), for instance). And we spend a lot of time on understanding the impact of various politicians on legislative and policy outcomes. But we spend relatively little time on the rest of the body of government, so the overall experience disappoints. As I’ve said before, government is a vast ocean, and politics is the six inch layer on top. What’s under that is bureaucracy, and it’s the operating system of our country. We can’t keep fiddling with the interface (electing politicians) when the underlying code base is so bloated and slow. At the risk of being fined for massive metaphor overuse, you could also say that politics is the skin on the body. You can’t fix problems of internal medicine with creams and lotions. Okay, one more, if you&#8217;ll forgive me: we&#8217;re quibbling about where the car should go instead of realizing that we&#8217;re driving a gas guzzler and the tank is almost empty.
+
+I’m obviously not saying that we’re so great at getting people to vote, but maybe one reason we’re not is that when we do succeed in that task, too often voters end up feeling that even if their candidate won, nothing really changed. Which makes them less excited about voting again. In the meantime, the bureaucracies that actually produce the results of government are not featured in television commercials, are not hotly debated by pundits, are not really exposed to citizens except when they [stand in line at the planning department](http://codeforamerica.org/2012/02/28/occupy-planning-dept/) or try to [ameliorate blight in their neighborhood](http://www.wdsu.com/r/30420921/detail.html). Our true citizen engagement capabilities are those weak limbs that mean that no matter how much we work out that one arm, it’s still not going to be able to do the lifting we need it to do. Let&#8217;s make voting better, **and** let&#8217;s make government better.  Both.
+
+<address>
+  Photo credit: <a href="http://www.flickr.com/people/mrflip/">Philip Kromer</a>, <a href="http://creativecommons.org/licenses/by-sa/2.0/"><img title="Attribution" src="http://l.yimg.com/g/images/cc_icon_attribution_small.gif" alt="Attribution" border="0" /><img title="Share Alike" src="http://l.yimg.com/g/images/cc_icon_sharealike_small.gif" alt="Share Alike" border="0" /></a> <a title="Attribution-ShareAlike License" href="http://creativecommons.org/licenses/by-sa/2.0/">Some rights reserved</a> 
+</address>

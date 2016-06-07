@@ -1,0 +1,32 @@
+---
+id: 32023
+title: 'Digital Diplomacy: How Kosovo’s Civic Technology Work Goes Beyond Defined Country Lines'
+date: 2014-09-21T20:14:27+00:00
+author: Lynn Fine
+layout: post
+guid: http://www.codeforamerica.org/blog/?p=32023
+permalink: /2014/09/21/digital-diplomacy-how-kosovos-civic-technology-work-goes-beyond-defined-country-lines/
+categories:
+  - Civic Hacking
+  - Code for All
+  - International
+---
+As many remember, Kosovo has not always been peaceful. From 1998 to 1999, war ravaged the country. Many people fled and massive human rights abuses occurred. Having unilaterally declared its independence from Serbia in 2008, Kosovo is now a fairly new country and is still not recognized as an official state by the United Nations. This complicated political position hasn’t stopped the community in Kosovo from getting involved in their country’s government though. Quite to the contrary, concerned citizens from all over Kosovo are organizing to make their very young country into what they hope it can be.
+
+<img class="alignnone" src="http://www.codeforamerica.org/blog/wp-content/uploads/2014/09/kosovo-blog-post-2a.jpg" alt="Beautiful Prizren, Kosovo" />
+
+I had the pleasure of experiencing this firsthand. One of the many things that I love about my job is that Code for America’s link to other global civic techies through the <a title="Code for All" href="http://www.codeforamerica.org/about/international/" target="_blank">Code for All network</a> gives me the opportunity to learn about interesting work that is being done in other parts of the world. Hopefully, transnational exchange such as this will lead to civic technology better serving users. My recent trip to Prizren, Kosovo, as a speaker at the first iteration of the <a title="Doku:Tech" href="http://www.dokute.ch/" target="_blank">Doku:Tech</a> conference, was one such learning opportunity.
+
+Organized to take place during <a title="Doku:Fest" href="http://dokufest.com/2014/" target="_blank">Doku:Fest</a>, a long-running international documentary film festival, Doku:Tech explored the benefits and challenges to creating technological innovations with social implications, with a focus on the Balkan region. The event was organized in partnership between the <a title="Ipko Foundation" href="http://ipkofoundation.org/" target="_blank">Ipko Foundation</a>, based in Kosovo, and the <a title="Share Foundation" href="http://www.shareconference.net/en" target="_blank">Share Foundation</a>, based in Serbia. These countries have a complicated geopolitical relationship; co-organizing the event was an intentional choice by the organizers to make a political statement of unity. While there, I learned about Kosovars who are building online education platforms to bridge the digital divide and organizing <a title="Bar Camps" href="http://ipkofoundation.org/programs/social/barcamp-prishtina" target="_blank">Bar Camps</a> to convene 100+ participants at local bars, theatres and events spaces on a monthly basis so that people can make connections and share ideas to improve the tech and innovation landscape in Kosovo.
+
+<img class="alignnone" src="http://www.codeforamerica.org/blog/wp-content/uploads/2014/09/kosovo-blog-post-1a.jpg" alt="Doku:Fest opening night" />
+
+Concerned citizens are not only organizing to improve their communities but to influence how their country is viewed beyond its border by working to place Kosovo on the digital map. A <a title="Foreign Policy Magazine Article" href="http://www.foreignpolicy.com/articles/2013/12/06/kosovo_s_digital_diplomats" target="_blank">Foreign Policy magazine article</a> termed activists such as these “Digital Diplomats.” Because Kosovo is not recognized as an official country by the United Nations, it does not appear on the drop-down menus for many companies. For example, when you try to dial a Kosovo number via Skype, the country code is not listed; one must pretend to be dialing “Monaco” instead (Kosovo is able to use Monaco&#8217;s code thanks to an agreement between the two nations). Furthermore, as a “new country,” there is limited online information that accurately represents it. Many are working hard to change this. Through the <a title="WikiAcademy Kosovo" href="http://wikiacademykosovo.org/" target="_blank">WikiAcademyKosovo</a> passionate Kosovars are mobilizing hundreds of volunteers to improve online content about their country and better represent it to the world. Groups such as these work on important digital country branding, serving the important purpose of helping to more accurately represent their state. These efforts are complemented by targeted advocacy so that companies will include Kosovo among their country lists. If they are successful, Kosovars will be able to use hundreds of sites currently unavailable to them as they have no way of entering their correct mailing addresses or selecting their country from drop down-menus.
+
+How is this relevant to larger civic technology efforts?
+
+People in Kosovo aren’t just fighting for their government to work, they’re still fighting for the country their government has been elected to represent to exist. Just as the digital realm is key to government working, the digital also plays a major role in shaping that country’s relationship with the rest of the world. The experience of Kosovo exemplifies that the importance of civic technology is not necessarily confined to a country’s own borders. Instead, it can be used to improve relationships between countries, to build a nation’s identify.
+
+What can we and our own communities learn from these efforts? What small acts of digital diplomacy could we take to further the causes we believe in both at home and abroad? And how do these efforts fit into our larger civic technology activism work? I do not have the answers to these questions but I think that the issues of how our own digital efforts could impact other places and change the way our countries relate to each other are not without merit. As civic technologists our activism oftentimes takes place in the digital arena. And, many times, that digital arena is not contained to our own borders but has important implications for the outside world.
+
+Are you a digital diplomat? Are you working with other digital diplomats in your community to engage with others across national lines? I encourage us all in our civic technology work to thoughtfully consider how we want to engage in digital diplomacy of our own.
