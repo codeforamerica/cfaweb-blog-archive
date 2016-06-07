@@ -7,6 +7,10 @@ This repository holds an archive of Code for America blog posts between 2010 (wh
 
 In 2016, the Code for America Marketing/Communications team lead a content strategy focused redesign of the Code for America website. During the redesign, the team made the decision to leave behind our past website platform and move to a new one. During the migration, we also chose to not move over every single piece of content to our new blog, now [hosted on Medium](https://medium.com/code-for-america). Some important posts were moved over and reformatted, and the rest were exported from WordPress and put into this simpler-to-maintain system. With no database, and just a simple HTML site output, this blog archive should require *little to not maintenance* after it is put up.
 
+Who maintains it
+================
+
+This project is maintained by the Code for America Marketing/Communications team. You can reach us by email at [marketing@codeforamerica.org](mailto:marketing@codeforamerica.org). If you are on the Code for America Slack instance, reach us in the #marketing-comms channel.
 
 How do I use it
 ===============
