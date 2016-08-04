@@ -68,7 +68,7 @@ The final, built site is deployed on an Amazon S3 Bucket [configured to serve a 
 
 The [s3_website gem](https://github.com/laurilehmijoki/s3_website) is used to easily deploy the website to S3 after changes are made. You can deploy the site locally by copying `.env.example` to `.env` and providing an AWS IAM key and secret that has access to the `cfa-static-blog-archive` bucket. [Here is the s3_website guide to setting up the correct credentials.](https://github.com/laurilehmijoki/s3_website/blob/master/additional-docs/setting-up-aws-credentials.md).
 
-Travis CI is used for continuous deployment. Travis automatically builds and deploys the master branch every time it is pushed to the Github repo. The correct AWS credentials are stored as environemnt variables on Travis.
+Travis CI is used for continuous deployment. Travis automatically builds and deploys the master branch every time it is pushed to the Github repo. The correct AWS credentials are stored as environment variables on Travis.
 
 Copyright and license
 =====================
