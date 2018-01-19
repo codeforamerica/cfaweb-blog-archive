@@ -8,6 +8,7 @@ guid: http://www.codeforamerica.org/blog/?p=34013
 permalink: /2014/10/29/roles-within-a-brigade/
 categories:
   - Brigade
+include_brigade_deprecation_notice: true
 ---
 Code for America has found that Brigades with a diverse team of leaders are more sustainable and more effective than groups with just one leader. To help support Brigades in building out a core leadership team, we put together some ideas for roles you may want to fill in your Brigade as it grows and takes on more projects and activities.
 

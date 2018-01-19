@@ -26,6 +26,7 @@ tags:
   - New York City
   - OpenOakland
   - video
+include_brigade_deprecation_notice: true
 ---
 Following in the footsteps of Chicago’s [Open City Open Gov Hack Night](http://opengovhacknight.eventbrite.com/), Code for America Brigades are [increasing innovation](http://www.smashingmagazine.com/2010/07/08/hack-nights/) and [building a national network](http://brigade.codeforamerica.org/pages/events.html.haml) of weekly meetups to socialize, code, and foster interdisciplinary collaboration for civic change. These hack nights are building the social and technical infrastructure to make government by the people, for the people, for the 21st century.
 

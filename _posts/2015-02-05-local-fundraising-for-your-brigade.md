@@ -8,6 +8,7 @@ guid: http://www.codeforamerica.org/blog/?p=34018
 permalink: /2015/02/05/local-fundraising-for-your-brigade/
 categories:
   - Brigade
+include_brigade_deprecation_notice: true
 ---
 Thinking about raising money for your local Brigade? We’ve put together this module to help.
 

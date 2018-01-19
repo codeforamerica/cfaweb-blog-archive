@@ -146,6 +146,14 @@ a.header-logo-tagline {
   }
 }
 
+.post-content__deprecated-brigade-notice {
+  @include responsive-spacing;
+
+  border: 1px dashed get-color(red);
+  font-style: italic;
+  padding: 10px;
+}
+
 .post-sidebar {
   display: block;
   width: 100%;
