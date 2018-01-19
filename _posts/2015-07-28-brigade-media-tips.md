@@ -8,6 +8,7 @@ guid: http://www.codeforamerica.org/blog/?p=34024
 permalink: /2015/07/28/brigade-media-tips/
 categories:
   - Brigade
+include_brigade_deprecation_notice: true
 ---
 Talking to the media can be both exciting and a little scary. Here are a few pointers to staying on message and guiding an interview to success. We’re here to support Brigades to be successful in managing their own media requests, as well as helping Brigades know when to escalate requests to Code for America when needed.
 

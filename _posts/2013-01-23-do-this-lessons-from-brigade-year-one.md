@@ -12,6 +12,7 @@ categories:
   - Chicago
   - Civic Hacking
   - Open Impact
+include_brigade_deprecation_notice: true
 ---
 > &#8220;If we&#8217;re not documenting these experiences and sharing them, then how do we justify all these resources?&#8221;
 > 

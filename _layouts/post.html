@@ -10,6 +10,15 @@ layout: default
     {% if page.categories.size != 0 %}
       <p class="post-meta">Tags: {{ page.categories | array_to_sentence_string }}</p>
     {% endif %}
+    {% if page.include_brigade_deprecation_notice %}
+    <div class="post-content__deprecated-brigade-notice">
+      <strong>Note:</strong>
+       This article is an archived resource for Brigade leaders and may not
+       reflect current best practice. <a href="https://brigade.codeforamerica.org/">Visit the current Brigade website</a> for the latest
+       resources on running a Code for America Brigade.
+    </div>
+    {% endif %}
+
     {{ content }}
   </section>
   <section class="post-sidebar">

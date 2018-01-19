@@ -8,6 +8,7 @@ guid: http://www.codeforamerica.org/blog/?p=32846
 permalink: /2015/06/17/how-were-working-to-diversify-brigade-leadership/
 categories:
   - News
+include_brigade_deprecation_notice: true
 ---
 At Code for America, inclusion and diversity are [core values](http://www.codeforamerica.org/governments/principles/engagement/). As Catherine Bracy, Director of Community Engagement at Code for America says, “We believe [civic tech cannot work unless it works for everyone](http://www.codeforamerica.org/blog/2014/04/08/it-has-to-work-for-everyone/).”
 
