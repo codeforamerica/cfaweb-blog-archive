@@ -31,6 +31,6 @@ Code for America (CfA) connects the talent of the tech industry with local gover
   
 Contact Information
   
-For media inquiries, please contact: Abhi Nemani, 618-322-2220, abhi@codeforamerica.org
+For media inquiries, please contact: Abhi Nemani, abhi@codeforamerica.org
 
 ###

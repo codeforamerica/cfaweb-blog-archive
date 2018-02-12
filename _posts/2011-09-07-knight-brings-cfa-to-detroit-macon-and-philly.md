@@ -45,9 +45,9 @@ The 2012 Code for America fellows will begin their fellowship in January 2012, a
 
 For more information contact:
   
-[Abhi Nemani](http://abhinemani.com/), Code for America, abhi@codeforamerica.org, 909-206-2220
+[Abhi Nemani](http://abhinemani.com/), Code for America, abhi@codeforamerica.org
   
-Marc Fest, John S. and James L. Knight Foundation, <fest@knightfoundation.org>;, 305-908-2677
+Marc Fest, John S. and James L. Knight Foundation, <fest@knightfoundation.org>
 
 <p dir="ltr">
   ###

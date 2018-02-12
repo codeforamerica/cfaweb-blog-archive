@@ -53,6 +53,6 @@ The source code and instructions for installation are available for download on 
 
 Contact:
 
-  * Jake Barton, Local Projects, +1 212 480 0479, jake@localprojects.net
-  * Julia Klaiber, CEOs for Cities, +1 202 420 9451, jklaiber@ceosforcities.org
-  * Abhi Nemani, Code for America, +1 909 206 2220, abhi@codeforamerica.org
+  * Jake Barton, Local Projects, jake@localprojects.net
+  * Julia Klaiber, CEOs for Cities, jklaiber@ceosforcities.org
+  * Abhi Nemani, Code for America, abhi@codeforamerica.org

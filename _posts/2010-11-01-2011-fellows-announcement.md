@@ -41,8 +41,6 @@ Biographies of the 2011 Code for America fellows are available here: <http://cod
   
 Abhi Nemani, Code for America
   
-618-322-2220
-  
 abhi@codeforamerica.org
 
 ###
