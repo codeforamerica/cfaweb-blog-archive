@@ -59,9 +59,9 @@ Code for America (CfA) connects the talent of the tech industry with local gover
 
 For more information contact:
 
-Abhi Nemani, Code for America, <abhi@codeforamerica.org>, 9092062220
+Abhi Nemani, Code for America, <abhi@codeforamerica.org>
 
-Kathleen Strand, City of Chicago, <kathleen.strand@cityofchicago>, 312-744-9045
+Kathleen Strand, City of Chicago, <kathleen.strand@cityofchicago>
 
 <p align="center">
   ###

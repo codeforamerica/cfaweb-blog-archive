@@ -30,6 +30,6 @@ Applications for the 2012 City Program are available online now and will be acce
 
 Contact Information
   
-For media inquiries, please contact: Abhi Nemani, 618-322-2220, <abhi@codeforamerica.org>
+For media inquiries, please contact: Abhi Nemani <abhi@codeforamerica.org>
   
 ###
