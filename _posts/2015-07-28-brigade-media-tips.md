@@ -16,7 +16,7 @@ Talking to the media can be both exciting and a little scary. Here are a few poi
 
 When you get a request for an interview, here are a few basics to line up ahead of time:
 
-  * **_If it’s a top tier media outlet, let_** [**_Jaime-Alexis_**](http://www.codeforamerica.org/people/jaime-alexis-fowler/)** _(ja@codeforamerica.org) know._** If a reporter reaches out directly from a top tier outlet, please loop in Jaime-Alexis right away. She can help with identifying messaging that highlights the work of your Brigade and the Code for America network.She will also be sure to share it from the CfA handle when it’s posted. [If Jaime-Alexis is unavailable, please contact, Zoe Blumenfeld (<zoe@codeforamerica.org>.]
+  * **_If it’s a top tier media outlet, let_ [_Elizabeth Smith_](https://www.codeforamerica.org/people/elizabeth-smith/) _(esmith@codeforamerica.org)_ _know._** If a reporter reaches out directly from a top tier outlet, please loop in Elizabeth right away. She can help with identifying messaging that highlights the work of your Brigade and the Code for America network. She will also be sure to share it from the CfA handle when it’s posted. If Elizabeth is unavailable, please contact Amy Koch (amy@codeforamerica.org).
   * **_Research the reporter before responding._** You can do this yourself with a quick look at their Twitter feed. Seeing their recent work and tweets will help you understand a bit more about the reporter’s beat as well as the tone with which they might approach you.
 
   * **_Evaluate whether it’s worth it._** You do not have to say yes to every media request. Will this move one of your goals forward? Do you have the time to be responsive? Will the outlet help you reach key audiences?
