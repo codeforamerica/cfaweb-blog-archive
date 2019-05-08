@@ -8,6 +8,7 @@ guid: http://www.codeforamerica.org/blog/?p=34027
 permalink: /2015/07/29/code-for-america-brigade-branding-guidelines/
 categories:
   - Brigade
+include_brigade_deprecation_notice: true
 ---
 This post is a guideline for how to brand your Brigade.
 
