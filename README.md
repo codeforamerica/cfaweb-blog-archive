@@ -1,3 +1,7 @@
+> [!WARNING]
+> **This repository is no longer maintained.**
+> The blog archive has been sunsetted and this repo is archived (read-only).
+
 What is this
 ============
 
